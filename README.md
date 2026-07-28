@@ -1,2 +1,2 @@
-# Site-informatica-basica
-
+# curso_html_css
+project google glass
